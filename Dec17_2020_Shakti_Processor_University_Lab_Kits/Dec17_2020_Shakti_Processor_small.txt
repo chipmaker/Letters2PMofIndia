@@ -1,0 +1,37 @@
+SUB: Dec 17 2020, Shakti Motherboards for Educational Lab Kits for various under-graduate universities in India
+**No Response Required. **
+Thu, Dec 17 2020
+To
+1. Hon’ble PM of India
+2. Ministry of Education
+3. Ministry of Skill Development and Entrepreneurship
+4. Ministry of Electronics and Information Technology
+5. To whoever else it may concern,
+Dear Respected Sir/Madam,
+Namasthe. My sincere thanks to Central government for striving to develop India on par with developed nations. I admire the audacious dream of AtmaNirbhar Bharat and the 100 smart cities program by the Central Government. It always felt easier to export Indian IT services for quick foreign exchange reserves. Now, it is time for India to foray into the export of indigenously manufactured IT goods, NOT just a manufacturing destination of foreign IT goods.
+In this regard, I am happy to see IIT Chennai invent Shakti processors. I’ve been hearing about Shakti Microprocessors for nearly 2 years now but then the adoption of Shakti processors in commercial consumer applications appears to be low. I think the reason is due to lack of necessary marketing expertise, resources or time with the IIT scientists and their students. In order to increase the commercial adoption of Shakti processor, marketing and Field Application Engineering teams must be assembled in a Public Private Partnership. In fact, few extroverts in Shakti’s team may be trained to be Field Application Engineers with entrepreneurial spirit similar to projects like MIPs, BSD, ARM or Red Hat Linux. This Field Application Team may 
+1. First, gather existing educational applications for Shakti processor motherboards and then also create more under-graduate lab experiments for Shakti processor motherboards.
+2. Second, take the Shakti educational kits to all under-graduate universities and colleges for sales. Many universities in India are cash conscious and they do not have funding like IITs, NITs or some famous private institutions. At all these lower ranking universities where they don’t get funds to buy expensive foreign motherboards, get the Shakti processor motherboards for nominal cost or even free if Sponsors agree.
+3. Three, create educational toys like robots & drones for Atal Tinkering Labs and schools. May be these educational toys may be sold online too (like ARM, Audrino based toys)
+4. There may be other means to accelerate the development of Shakti eco-system and also generate revenues for research. For this, Shakti processor team may also invite IIM students to participate alongside IIT scientists & students in making a roadmap for wide proliferation and commercialization of Shakti processors.
+Since it is in my own personal interest if not anyone else’s grievance that India becomes a super-power not only in military might but also in improving the standard of living of all, I am submitting this humble grievance/request (as a PDF document attached.)
+What I wrote is from/related to my own research and experiences. Please kindly forgive me if I said or asked for anything inconvenient, incorrect & wrong. Due to time constraints, please kindly forgive my English mistakes too.
+Satyameva Jayathe!
+Kal Gandikota
+
+Note: I am not affiliated with any political party, any religion, caste, tribe, last name, pin code, language, region, media, NGO, business or any Government institution. I am still an ordinary Indian Citizen. I am not paid to write here and not seeking favors. Copy to:
+1. Hon’ble PM of India
+2. Ministry of Education
+3. Ministry of Skill Development and Entrepreneurship
+4. Ministry of Electronics and Information Technology
+5. To whoever else it may concern
+**No Response Required. **
+P.S: Chinese have a number of teams making processors in their country like 
+1. Zhaoxin which can run Windows and Chrome operating systems for Personal Computer market
+2. AMD–Chinese joint venture making processors for their Server market
+3. Sunway processors
+4. Loongsoon/Godson processors (For supercomputers and weapons)
+5. FeiTang processors (For super computers)
+China’s Chang’e 5 lunar mission is possible only due to their hardware manufacturing capabilities, not slaving for goras in their countries like we Indians do in softwares. 
+
+A scientist must understand entrepreneurship even if he or she is not an Entrepreneur. Vice versa, an Entrepreneur must understand at least some aspects of Sciences, Technologies, Engineering and mathematics used to make the products or services of the business they’re working for. Both Entrepreneurs and Scientists may understand a nation’s politics. Thus, socio-political, scientific and economic development of a nation is intertwined. I think, this is one of the features lacking in several public institutions including but not limited to IIMs, AIIMS, IITs, many state sponsored universities, Parliament, State legislatures, public sector organizations, few private sector organizations too. In this regard, please kindly support The Intellectual Property Rights and Copyrights awareness among the budding under-graduates of all esteemed universities of technologies around India. I fully understand that for the success of Shakti processor, it must be open sourced. However, an impetus must be generated to create commercial gadgets and appliances with Shakti Processor and for that the Shakti Team must be empowered with management skills including but not limited to marketing and field-applications.
